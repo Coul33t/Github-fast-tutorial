@@ -4,7 +4,7 @@ This repo is all about using Github's core functions without going too much into
 
 Github is a really, really, REALLY, __REALLY__ useful tool used for control versioning. It is mostly used for computer code, but it can be used for everything you want. It allows for:
 - tracking changes into your codes (-> commits made)
-- collaborative developement (-> Pul lrequest tab)
+- collaborative developement (-> Pull requests tab)
 - Conflict handling (for example, if two persons modified the same file, when uploading, you can merge the different parts together to avoid erasing code)
 - Bug tracking (-> Issues tab)
 
@@ -34,7 +34,7 @@ First, we have to create a repository on Github. This repository will contains t
 - Write an optionnal small description
 - Decide to make it public or private
 
-Once you're done, click " Create ". Tada, your repository is now live! You'll be redirected to another page with a lot of commands. Don't panic! Since your repository is empty, github is giving you ways to fill it. 
+Once you're done, click " Create ". Tada, your repository is now live! You'll be redirected to another page with a lot of commands. Don't panic! Since your repository is empty, Github is giving you ways to fill it. 
 
 ### Creating the local repository and pushing (uploading) the local code to the remote repository
 In our example, we have a pre-existing codebase that we want to upload. He have to initialise a Git repository locally. Using the git prompt :
